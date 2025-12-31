@@ -26,7 +26,7 @@ A comprehensive showcase of my Java learning journey through progressively chall
 ### Beginner Level
 Foundation projects focusing on Java fundamentals, basic I/O, and control structures.
 
-#### 🎲 [Number Guessing Game](repo-link)
+#### 🎲 [Number Guessing Game]([repo-link](https://github.com/akaPierre/number-guessing-game))
 ![JavaFX](badge) ![Maven](badge)
 
 A clean and beginner-friendly number guessing game with JavaFX GUI (originally CLI-based).
@@ -38,7 +38,7 @@ A clean and beginner-friendly number guessing game with JavaFX GUI (originally C
 
 ---
 
-#### 🧮 [Console Calculator](repo-link)
+#### 🧮 [Console Calculator]([repo-link](https://github.com/akaPierre/console-calculator))
 ![Java](badge) ![Maven](badge)
 
 Simple console-based calculator supporting basic arithmetic operations.
@@ -53,7 +53,7 @@ Simple console-based calculator supporting basic arithmetic operations.
 ### Intermediate Level
 More complex projects introducing libraries, APIs, networking, and GUI frameworks.
 
-#### 📚 [Library Management System](repo-link)
+#### 📚 [Library Management System]([repo-link](https://github.com/akaPierre/library-management-system))
 ![Java](badge) ![Maven](badge)
 
 Complete console-based system for managing books, members, and transactions.
@@ -65,7 +65,7 @@ Complete console-based system for managing books, members, and transactions.
 
 ---
 
-#### 🌤️ [Weather Application](repo-link)
+#### 🌤️ [Weather Application]([repo-link](https://github.com/akaPierre/weather-app))
 ![Java](badge) ![REST API](badge) ![Maven](badge)
 
 Console application fetching real-time weather data from external APIs.
@@ -77,7 +77,7 @@ Console application fetching real-time weather data from external APIs.
 
 ---
 
-#### 💬 [Multi-Client Chat Application](repo-link)
+#### 💬 [Multi-Client Chat Application]([repo-link](https://github.com/akaPierre/chat-application))
 ![Java](badge) ![Swing](badge) ![Sockets](badge) ![Multithreading](badge)
 
 Real-time chat system supporting both console and Swing GUI clients.
@@ -90,7 +90,7 @@ Real-time chat system supporting both console and Swing GUI clients.
 
 ---
 
-#### 🏦 [Online Banking System Backend](repo-link)
+#### 🏦 [Online Banking System Backend]([repo-link](https://github.com/akaPierre/banking-system))
 ![Spring Boot](badge) ![JWT](badge) ![H2](badge) ![REST API](badge)
 
 Production-style REST API with Spring Boot 3 and security features.
@@ -104,7 +104,7 @@ Production-style REST API with Spring Boot 3 and security features.
 
 ---
 
-#### 🐍 [Snake Game](repo-link)
+#### 🐍 [Snake Game]([repo-link](https://github.com/akaPierre/snake-game))
 ![Java](badge) ![Swing](badge) ![Maven](badge)
 
 Classic Snake implementation with Swing, multiple difficulty levels, and sound effects.
@@ -120,7 +120,7 @@ Classic Snake implementation with Swing, multiple difficulty levels, and sound e
 ### Advanced Level
 Production-ready systems demonstrating complex architectures, security, and modern frameworks.
 
-#### 🤖 [AI-Powered Personal Assistant](repo-link)
+#### 🤖 [AI-Powered Personal Assistant]([repo-link](https://github.com/akaPierre/ai-assistant))
 ![Spring Boot](badge) ![Groq API](badge) ![LLM](badge) ![REST API](badge) ![HTML/JS](badge)
 
 Full-stack AI assistant combining LLM intelligence with structured task/note management.
@@ -139,7 +139,7 @@ Full-stack AI assistant combining LLM intelligence with structured task/note man
 
 ---
 
-#### 🏗️ [Spring Boot Microservices](repo-link)
+#### 🏗️ [Spring Boot Microservices]([repo-link](https://github.com/akaPierre/microservices))
 ![Spring Boot](badge) ![Microservices](badge) ![Work In Progress](badge)
 
 *Currently in development* - Distributed microservices architecture project.
@@ -152,7 +152,7 @@ Full-stack AI assistant combining LLM intelligence with structured task/note man
 
 ---
 
-#### 🗳️ [Blockchain-Based Voting System](repo-link)
+#### 🗳️ [Blockchain-Based Voting System]([repo-link](https://github.com/akaPierre/blockchain-voting))
 ![Java](badge) ![Spring Boot](badge) ![Blockchain](badge) ![Cryptography](badge) ![REST API](badge)
 
 Production-ready voting system with immutable blockchain and cryptographic authentication.
@@ -196,4 +196,6 @@ This bootcamp demonstrates clear skill development:
 
 ## 📬 Connect
 
-[Your GitHub] | [LinkedIn] | [Email]
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/daniel-pierre-fachini/))
+&nbsp;
+[![GitHub](https://i.sstatic.net/tskMh.png) GitHub]([https://github.com/](https://github.com/akaPierre))
